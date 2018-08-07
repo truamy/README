@@ -5,15 +5,12 @@ Generally speaking, I prefer to have a face-to-face conversation about the "read
 I've worked at multiple tech companies as an engineering leader over the past 10 years, and even though the company cultures and expectations have varied, my personal guiding principles have remained the same.
 
 ### My Top Strengths
-According to Gallup's Clifton StrengthsFinder [0], my top strengths (or "Talent Themes") are:
-1. Individualization [1]
-2. Activator
-3. Achiever
-4. Restorative
-5. Harmony
-
-[0] More Info: https://en.wikipedia.org/wiki/Now,_Discover_Your_Strengths
-[1] Individualization is the "strength" that I am most excited about because I have been able to leverage this to successfully build happy and productive teams.
+According to [Gallup's Clifton StrengthsFinder](https://en.wikipedia.org/wiki/Now,_Discover_Your_Strengths), my top "strengths" are:
+1. **Individualization** - I am most excited about Individualization because I've been able to leverage this to successfully build happy and productive teams.
+2. **Activator**
+3. **Achiever**
+4. **Restorative**
+5. **Harmony**
 
 ### My Philosophies on Team Building
 1. Build a team like an orchestra. (There is no single rockstar.)
