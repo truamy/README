@@ -8,11 +8,11 @@ This "user manual" is intended to help others understand how to best work with m
 * **Needs/Stress Behavior**: As a **Blue**, when I am stressed I can be indecisive and fatigued. I can become self-critical, idealistic, and impractical. When I am in this state, what I need is time to make complex decisions. I need time alone or with one or two others. I also respond well to people who encourage trust and fairness, don't interrupt me unnecessarily, and invite my input.
 
 ### Gallup StrengthsFinder
-* **Individualization**: draws upon the uniqueness of individuals to create successful teams
-* **Activator**: acts to start things in motion
-* **Achiever**: constant drive for accomplishing tasks
-* **Restorative**:thrives on solving difficult problems
-* **Harmony**: seeks to avoid conflict and achieve success through consensus
+* **Individualization**: I like to draw upon the uniqueness of individuals to create successful teams.
+* **Activator**: I tend to act to start things in motion.
+* **Achiever**: I have a constant drive for accomplishing tasks.
+* **Restorative**: I thrive on solving difficult problems.
+* **Harmony**: I look for areas of common ground in order to build strong relationships.
 
 ### Enneagram
 * **1 (Reformer)**  The Rational, Idealistic Type: Principled, Purposeful, Self-Controlled, and Perfectionistic
