@@ -3,20 +3,20 @@ This "user manual" is intended to help others understand how to best work with m
 
 ## My Leadership Traits
 ### Birkman
-* Interests: As a **Blue**, I'm a *thinker*. I like to create, discover new ways to solve problems, plan how to do things, and consider the future. I also like time for reflection. 
-* Usual Behavior: As a **Green**, I'm a natural *communicator*. Alignment is important to me. I collaborate, help, teach, and advocate for people.  
-* Needs/Stress Behavior: As a **Blue**, when I am stressed I can be indecisive and fatigued. I can become self-critical, idealistic, and impractical. When I am in this state, what I need is time to make complex decisions. I need time alone or with one or two others. I also respond well to people encourage trust and fairness, don't interrupt me unnecessarily, and invite my input.
+* **Interests**: As a **Blue**, I'm a *thinker*. I like to create, discover new ways to solve problems, plan how to do things, and consider the future. I also like time for reflection. 
+* **Usual Behavior**: As a **Green**, I'm a natural *communicator*. Alignment is important to me. I collaborate, help, teach, and advocate for people.  
+* **Needs/Stress Behavior**: As a **Blue**, when I am stressed I can be indecisive and fatigued. I can become self-critical, idealistic, and impractical. When I am in this state, what I need is time to make complex decisions. I need time alone or with one or two others. I also respond well to people encourage trust and fairness, don't interrupt me unnecessarily, and invite my input.
 
 ### Gallup StrengthsFinder
-* **Individualization** one who draws upon the uniqueness of individuals to create successful teams
-* **Activator** one who acts to start things in motion
-* **Achiever** one with a constant drive for accomplishing tasks
-* **Restorative** one who thrives on solving difficult problems
-* **Harmony** one who seeks to avoid conflict and achieve success through consensus
+* **Individualization**: draws upon the uniqueness of individuals to create successful teams
+* **Activator**: acts to start things in motion
+* **Achiever**: constant drive for accomplishing tasks
+* **Restorative**:thrives on solving difficult problems
+* **Harmony**: seeks to avoid conflict and achieve success through consensus
 
 ### Enneagram
 * **1 (Reformer)**  The Rational, Idealistic Type: Principled, Purposeful, Self-Controlled, and Perfectionistic
-  * **Wing 2 (Helper)** The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
+  * With a **Wing 2 (Helper)** The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
 
 ## My Focus
 My focus is execution on the company vision while adhering to the team's core values. Through this lens, I concentrate on:
