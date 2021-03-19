@@ -15,8 +15,8 @@ This "user manual" is intended to help others understand how to best work with m
 * **Harmony**: I look for areas of common ground in order to build strong relationships.
 
 ### Enneagram
-* **1 Type, the Reformer**: The Rational, Idealistic Type - Principled, Purposeful, Self-Controlled, and Perfectionistic
-* ... With a **Wing 2 Type, the Helper**: The Caring, Interpersonal Type - Demonstrative, Generous, People-Pleasing, and Possessive
+* **Type 1, the Reformer**: The Rational, Idealistic Type - Principled, Purposeful, Self-Controlled, and Perfectionistic
+* ... With a **Wing Type 2, the Helper**: The Caring, Interpersonal Type - Demonstrative, Generous, People-Pleasing, and Possessive
 
 ## My Focus
 My focus is execution on the company vision while adhering to the team's core values. Through this lens, I concentrate on:
