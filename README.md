@@ -26,7 +26,7 @@ My focus is execution on the company vision while adhering to the team's core va
 
 ## My Working Style
 ### Working Availability
-As a working parent, I have a strict schedule for childcare responsibilities, and I balance this by working early in the mornings and late in the evenings. Furthermore, I am generally flexible and willing to making changes to my schedule on a case-by-case basis, as long as I have time to arrange backup childcare. A 24-hour advance notice is preferable.
+As a working parent, I have a strict schedule for childcare responsibilities, and I balance this by working early in the mornings and late in the evenings. Furthermore, I am generally flexible and willing to making changes to my schedule on a case-by-case basis, as long as I have time to arrange backup childcare. A 24-hour advance notice is preferable and appreciated.
 
 ### Meeting Logistics
 * **Booking Time with Me**: I always keep my calendar availability up to date. If there is a conflict with my calender, please ping me and I will work with you on how to resolve it.
