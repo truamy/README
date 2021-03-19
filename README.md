@@ -2,7 +2,7 @@
 This "user manual" is intended to help others understand how to best work with me. I'm very happy to discuss this in person at any time.
 
 ## My Leadership Traits
-### Birkman
+### Birkman Colors
 * **Interests**: As a **Blue**, I'm a *thinker*. I like to create, discover new ways to solve problems, plan how to do things, and consider the future. I also like time for reflection. 
 * **Usual Behavior**: As a **Green**, I'm a natural *communicator*. Alignment is important to me. I collaborate, help, teach, and advocate for people.  
 * **Needs/Stress Behavior**: As a **Blue**, when I am stressed I can be indecisive and fatigued. I can become self-critical, idealistic, and impractical. When I am in this state, what I need is time to make complex decisions. I need time alone or with one or two others. I also respond well to people who encourage trust and fairness, don't interrupt me unnecessarily, and invite my input.
