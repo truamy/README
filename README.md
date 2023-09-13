@@ -18,6 +18,9 @@ This "user manual" is intended to help others understand how to best work with m
 * **Type 1, the Reformer**: The Rational, Idealistic Type - Principled, Purposeful, Self-Controlled, and Perfectionistic
 * ... With a **Wing Type 2, the Helper**: The Caring, Interpersonal Type - Demonstrative, Generous, People-Pleasing, and Possessive
 
+### Insights Discovery
+* **"Cool Blue"** - Detailed, Analytical, Thoughtful, Diligent, Consistent.
+
 ## My Working Style
 ### Working Availability
 As a working parent, I have a strict schedule for childcare responsibilities, and I balance this by working early in the mornings and late in the evenings. Furthermore, I am generally flexible and willing to making changes to my schedule on a case-by-case basis, as long as I have time to arrange backup childcare. A 24-hour advance notice is preferable and appreciated.
