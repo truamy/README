@@ -18,12 +18,6 @@ This "user manual" is intended to help others understand how to best work with m
 * **Type 1, the Reformer**: The Rational, Idealistic Type - Principled, Purposeful, Self-Controlled, and Perfectionistic
 * ... With a **Wing Type 2, the Helper**: The Caring, Interpersonal Type - Demonstrative, Generous, People-Pleasing, and Possessive
 
-## My Focus
-My focus is execution on the company vision while adhering to the team's core values. Through this lens, I concentrate on:
-* Technical execution through people development, process, and technical investments
-* Team Alignment
-* Connecting the dots from tech to business
-
 ## My Working Style
 ### Working Availability
 As a working parent, I have a strict schedule for childcare responsibilities, and I balance this by working early in the mornings and late in the evenings. Furthermore, I am generally flexible and willing to making changes to my schedule on a case-by-case basis, as long as I have time to arrange backup childcare. A 24-hour advance notice is preferable and appreciated.
@@ -36,6 +30,3 @@ As a working parent, I have a strict schedule for childcare responsibilities, an
 * **Preferred Modes of Communication**: Generally, I am flexible with various modes of communication. I've worked at companies that were very Slack-heavy, and others that were email-heavy. I can adapt to whatever works best for the team. That said, generally my preference is to use Slack (or whatever chat application is used by the team) for time-sensitive communication, and email for any communication that requires deeper thinking and evaluation. I appreciate being given expected timelines for responses, and I will do the same.
 * **Collaborating in Meetings**: I don't like to react in a meeting, or make fast important decisions in a meeting. I usually like to think it through. I appreciate when meeting materials, or even high-level context, are given to me in advance to allow me to independently process the information and mentally prepare for the discussion. This will support me to perform at my best, and allow me to effectively collaborate and make the right decisions for the team.
 
-### Giving and Receiving Feedback
-* **Giving**: For us to make a meaningful impact as a team, we need to continue to learn and grow together, and we can't do that without regular feedback. If any feedback comes as a major surprise, that is usually an indication to me that I have not done my job as a leader. Therefore, I try to nip things in the bud when I can, and I aim for providing *course corrections* (vs major surprise feedback) to keep every individual focused and on track to successfully achieve their goals. Furthermore, it's also important to deliver feedback in a respectful way. Constructive feedback is always done privately and with kindness and empathy for the person receiving the feedback.
-* **Receiving**: I like to receive feedback the same way I prefer to give it. The sooner, the better (and with respect).
