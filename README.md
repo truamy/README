@@ -27,7 +27,7 @@ As a working parent, I have a strict schedule for childcare responsibilities, an
 
 ### Meeting Logistics
 * **Booking Time with Me**: I always keep my calendar availability up to date. If there is a conflict with my calender, please ping me and I will work with you on how to resolve it.
-* **1:1s**: I do weekly 1:1s with my direct reports, and if you're a manager, you can expect "skip level" 1:1s (at a different cadence) where I'll chat with your direct reports. Our 1:1 conversations will be driven by my focus areas mentioned above, which can cover your challenges, goals, priorities, and what you need to be suppported and to leverage your individual strengths.
+* **1:1s**: I do weekly 1:1s with my direct reports, and if you're a manager, you can expect "skip level" 1:1s (at a different cadence) where I'll chat with your direct reports. Our 1:1 conversations will be driven by our business focus areas, which can cover your challenges, goals, priorities, and what you need to be suppported and to leverage your individual strengths.
 
 ### Communication
 * **Preferred Modes of Communication**: Generally, I am flexible with various modes of communication. I've worked at companies that were very Slack-heavy, and others that were email-heavy. I can adapt to whatever works best for the team. That said, generally my preference is to use Slack (or whatever chat application is used by the team) for time-sensitive communication, and email for any communication that requires deeper thinking and evaluation. I appreciate being given expected timelines for responses, and I will do the same.
