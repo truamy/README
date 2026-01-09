@@ -22,6 +22,9 @@ This "user manual" is intended to help others understand how to best work with m
 * **"Cool Blue"** - Detailed, Analytical, Thoughtful, Diligent, Consistent.
 
 ## My Working Style
+### Technical Collaboration & Leadership
+My leadership approach is grounded in aligning technology with business objectives. I start by deeply understanding the outcomes the business needs to achieve, and then work closely with my team to identify the technology strategies and initiatives that can deliver those outcomes. As we execute, I continuously evaluate our technical decisions against the business cases, pressure testing assumptions to ensure we're moving in the right direction. I stay actively engaged in architecture discussions and value high-level walkthroughs of the code to maintain a strong understanding of how our systems are built and operate. I empower my team to lead formal design and code reviews, while using my knowledge to translate technical capabilities into business value. This helps uncover new opportunities and enables me to effectively communicate with business stakeholders about what our technology can do, today and in the future.
+
 ### Working Availability
 As a working parent, I have a strict schedule for childcare responsibilities, and I balance this by working early in the mornings and late in the evenings. That said, I am generally flexible and willing to making changes to my schedule on a case-by-case basis, as long as I have time to arrange backup childcare. A 24-hour advance notice is preferable and appreciated.
 
